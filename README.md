@@ -2,7 +2,7 @@
 
 ### Hola👋 Soy Gino
 
-Soy estudiante de programación en la UTN, Actualmente estoy cursando el ultimo año de una Tecnicatura en Programación y aprendiendo ingles
+Estudiante de la tecnicatura programación en la UTN
 ## Mis habilidades son
 
 <h4> Languages </h4>
