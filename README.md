@@ -2,7 +2,7 @@
 
 ### Hola👋 Soy Gino
 
-Estudiante de la tecnicatura programación en la UTN
+Estudiante de la "Tecnicatura Universitaria en Programacion" en la UTN de Bahia Blanca.
 
 ## Mis habilidades son
 
