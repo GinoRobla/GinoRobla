@@ -1,13 +1,14 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Hola! Soy Gino Robla
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Freelance+%7C+MERN+Stack+Specialist+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Real+Solutions+for+Real+Businesses+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Electron.js+%F0%9F%9A%80;Soluciones+Reales+para+Negocios+Reales+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-robla-803a9337b/)
-  [![Email](https://img.shields.io/badge/Email-ginoroblabelleggia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginoroblabelleggia@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginoroblabelleggia@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GinoRobla)
   
 </div>
 
@@ -18,32 +19,31 @@
 </div>
 
 ## 👨‍💻 **Sobre Mí**
-
 ```javascript
 const gino = {
-    rol: "Full Stack Developer (Freelance)",
-    ubicacion: "Bahía Blanca, Buenos Aires, Argentina 📍",
-    experiencia: "Desarrollo de soluciones web personalizadas para PyMEs",
+    rol: "Full Stack Developer",
+    ubicacion: "Bahía Blanca, Argentina 📍",
+    experiencia: "Freelance desarrollando soluciones para PyMEs",
     
-    stack_principal: {
-        frontend: ["React 18/19", "TypeScript", "JavaScript ES6+"],
+    stack: {
+        frontend: ["React", "JavaScript ES6+", "TypeScript", "HTML5", "CSS3"],
         backend: ["Node.js", "Express", "Python", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "SQLite"],
-        tools: ["Git", "Docker", "Postman", "Electron.js"],
-        apis: ["RESTful APIs", "JWT Authentication", "Multer"]
+        databases: ["MongoDB", "SQLite", "Sequelize", "Mongoose"],
+        tools: ["Git/GitHub", "Electron.js", "Docker", "Postman"],
+        integraciones: ["MercadoPago", "Twilio", "Nodemailer", "Passport.js"]
     },
     
-    educacion: "Tecnicatura en Programación en la UTN (99% completada)",
-    certificaciones: ["React.js Udemy", "Node.js Udemy"],
-    idiomas: ["Español (Nativo)", "Inglés (Técnico)"],
+    educacion: "Tecnicatura Universitaria en Programación - UTN (99%, promedio 8.50)",
+    certificaciones: ["Node.js", "React.js"],
+    idiomas: ["Español (Nativo)", "Inglés (Técnico Intermedio)"],
     
-    disponibilidad: "Abierto a oportunidades remotas y presenciales ⚡"
+    buscando: "Primer posición en equipo de desarrollo (Trainee/Junior)"
 };
 ```
 
-## 🚀 **Proyectos Reales - Clientes Freelance**
+---
 
-> **Nota sobre el código:** Por acuerdos de confidencialidad con los clientes, los repositorios públicos contienen versiones simplificadas que demuestran las tecnologías y arquitectura utilizadas, omitiendo datos sensibles y lógica de negocio específica.
+## 🚀 **Proyectos Freelance - Clientes Reales**
 
 <table>
   <tr>
@@ -58,14 +58,20 @@ const gino = {
           <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
         </p>
-        <p><strong>Cliente:</strong> Peluquería Local</p>
-        <p>✅ Sistema MERN completo que digitalizó la gestión de turnos<br>
-        ✅ Dashboard administrativo con métricas de negocio<br>
-        ✅ 30+ endpoints REST documentados<br>
-        ✅ Auth JWT con roles (Admin, Barbero, Cliente)<br>
-        ✅ Upload de imágenes con Multer</p>
+        <p><strong>🎯 Cliente:</strong> Barbería Local</p>
+        <p><strong>📋 Problema:</strong> Gestión manual de turnos con agenda física, turnos duplicados, clientes que no asisten</p>
+        <p><strong>✅ Solución desarrollada:</strong></p>
+        <ul align="left">
+          <li>Plataforma web con reservas online 24/7</li>
+          <li>Calendario con disponibilidad en tiempo real</li>
+          <li>Sistema de señas integrado (MercadoPago)</li>
+          <li>Notificaciones automáticas por WhatsApp (Twilio)</li>
+          <li>API REST con 30+ endpoints</li>
+          <li>Panel con 3 roles: Cliente, Barbero, Admin</li>
+          <li>Auth JWT + Google OAuth (Passport.js)</li>
+        </ul>
+        <p><strong>📊 Resultado:</strong> Reducción del tiempo administrativo, métricas en tiempo real, menos inasistencias</p>
       </div>
     </td>
     <td width="50%">
@@ -75,28 +81,60 @@ const gino = {
           <img src="https://img.shields.io/badge/VER_CÓDIGO-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Sistema POS"/>
         </a>
         <p>
-          <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
           <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
         </p>
-        <p><strong>Cliente:</strong> Panadería Familiar</p>
-        <p>✅ App de escritorio con Electron.js (100% offline)<br>
-        ✅ Integración con lectores de códigos de barras<br>
-        ✅ Dashboard con 10+ KPIs en tiempo real<br>
-        ✅ Gestión de inventario automática<br>
-        ✅ Optimización de queries (paginación para +1000 registros)</p>
+        <p><strong>🎯 Cliente:</strong> Panadería Familiar</p>
+        <p><strong>📋 Problema:</strong> Registro manual de ventas, errores en stock, cobros lentos, falta de visibilidad del negocio</p>
+        <p><strong>✅ Solución desarrollada:</strong></p>
+        <ul align="left">
+          <li>App de escritorio (Electron.js) 100% offline</li>
+          <li>Integración con lector de códigos de barras</li>
+          <li>Control automático de inventario</li>
+          <li>Dashboard con métricas en tiempo real</li>
+          <li>Historial de ventas con paginación (+1000 registros)</li>
+          <li>Alertas de stock bajo</li>
+        </ul>
+        <p><strong>📊 Resultado:</strong> Cobros más rápidos, inventario con 99% precisión, visibilidad completa del negocio</p>
       </div>
     </td>
   </tr>
 </table>
 
-## 🌟 **Otros Proyectos Destacados**
+---
+
+## 🌟 **Otros Proyectos**
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📝 Blog Profesional Full Stack</h3>
+      <h3 align="center">🌐 Red Social Full Stack</h3>
+      <div align="center">
+        <a href="https://github.com/GinoRobla/curso-react/tree/master/Red-social" target="_blank">
+          <img src="https://img.shields.io/badge/VER_CÓDIGO-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="Red Social"/>
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        </p>
+        <p><strong>📱 Características principales:</strong></p>
+        <ul align="left">
+          <li>Sistema de perfiles con avatares personalizables</li>
+          <li>Publicaciones con texto e imágenes (Multer)</li>
+          <li>Follow/unfollow entre usuarios</li>
+          <li>Feed personalizado (solo posts de seguidos)</li>
+          <li>API REST con 30+ endpoints</li>
+          <li>Auth JWT con bcrypt</li>
+          <li>Diseño responsive mobile-first</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 Blog Full Stack</h3>
       <div align="center">
         <a href="https://github.com/GinoRobla/curso-react/tree/master/Blog" target="_blank">
           <img src="https://img.shields.io/badge/VER_CÓDIGO-FFD93D?style=for-the-badge&logo=github&logoColor=black" alt="Blog"/>
@@ -106,32 +144,24 @@ const gino = {
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         </p>
-        <p>✅ Sistema de autenticación completo<br>
-        ✅ CRUD de artículos con editor rich-text<br>
-        ✅ Sistema de comentarios y likes<br>
-        ✅ Panel de administración</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Red Social Full Stack</h3>
-      <div align="center">
-        <a href="https://github.com/GinoRobla/proyectos-personales/tree/master/Red-social" target="_blank">
-          <img src="https://img.shields.io/badge/VER_CÓDIGO-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="Red Social"/>
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/MERN-Stack-00D9FF?style=flat"/>
-          <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat"/>
-        </p>
-        <p>✅ Sistema follow/unfollow en tiempo real<br>
-        ✅ Feed personalizado de publicaciones<br>
-        ✅ Upload de imágenes de perfil<br>
-        ✅ API REST con 30+ endpoints</p>
+        <p><strong>📱 Características principales:</strong></p>
+        <ul align="left">
+          <li>CRUD completo de artículos</li>
+          <li>Sistema de búsqueda en tiempo real</li>
+          <li>Subida y gestión de imágenes (Multer)</li>
+          <li>Paginación (6 artículos por página)</li>
+          <li>API REST con validación de datos</li>
+          <li>Diseño moderno con glassmorphism</li>
+          <li>Responsive para móviles y tablets</li>
+        </ul>
       </div>
     </td>
   </tr>
 </table>
 
-## 🛠️ **Tech Stack & Herramientas**
+---
+
+## 🛠️ **Stack Tecnológico**
 
 <div align="center">
 
@@ -140,70 +170,63 @@ const gino = {
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
 </p>
 
-### Backend & APIs
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
 </p>
 
-### Databases & DevOps
+### Bases de Datos & Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,docker,postman,electron" />
 </p>
 
-### Extras
+### Integraciones
 <p>
-  <img src="https://skillicons.dev/icons?i=electron" />
+  <img src="https://img.shields.io/badge/MercadoPago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Multer-FF6B6B?style=for-the-badge&logo=node.js&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" height="48"/>
 </p>
 
 </div>
 
-## 💼 **Lo que Ofrezco**
+---
 
+## 💼 **Experiencia & Capacidades**
 ```
-✅ Desarrollo Full Stack (Frontend + Backend + Base de Datos)
-✅ APIs RESTful robustas y escalables
-✅ Integración con hardware (lectores de barras, impresoras)
-✅ Aplicaciones offline-first (Electron.js)
-✅ Sistemas de autenticación seguros (JWT)
-✅ Dashboards analíticos con métricas de negocio
-✅ Gestión completa del ciclo de desarrollo
+✅ Desarrollo Full Stack end-to-end (Frontend + Backend + Base de Datos)
+✅ APIs RESTful robustas con documentación completa
+✅ Integración con servicios de terceros (pagos, mensajería, auth)
+✅ Aplicaciones de escritorio offline-first (Electron.js)
+✅ Sistemas de autenticación seguros (JWT, OAuth)
+✅ Gestión de ciclo completo: relevamiento, desarrollo, despliegue
+✅ Bases de datos relacionales (SQLite) y NoSQL (MongoDB)
 ```
 
-## 📊 **GitHub Stats**
+---
+
+## 🎓 **Educación**
+
+- 📚 **Tecnicatura Universitaria en Programación** - UTN (2023-Presente)
+  - 99% completado, promedio 8.50
+- 🎖️ **Certificaciones:** Node.js, React.js
+
+---
+
+## 📫 **Contacto**
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=GinoRobla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&icon_color=FF6B6B&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GinoRobla&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6AD3F7&ring=FF6B6B&fire=FFD93D&currStreakLabel=6AD3F7" width="49%" />
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinoRobla&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6AD3F7&text_color=ffffff" width="40%" />
-</div>
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GinoRobla&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6AD3F7&line=FF6B6B&point=FFD93D" width="90%"/>
-</div>
-
-## 🤝 **¿Hablamos de tu Proyecto?**
-
-<div align="center">
-  
-  ```
+```
   📧 ginoroblabelleggia@gmail.com
   💼 linkedin.com/in/gino-robla
-  📍 Bahía Blanca, Argentina (Remoto disponible)
-  ```
+  🐙 github.com/GinoRobla
+  📍 Bahía Blanca, Argentina
+```
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
   
-  <h3>💡 Transformo problemas reales en soluciones digitales</h3>
-  <p><i>Disponible para proyectos freelance y posiciones full-time</i></p>
+  <h3>🚀 Buscando oportunidades como Desarrollador Full Stack (Trainee/Junior)</h3>
+  <p><i>Disponibilidad inmediata | Remoto/Presencial/Híbrido</i></p>
   
   ![](https://komarev.com/ghpvc/?username=GinoRobla&color=6AD3F7&style=for-the-badge&label=Visitas+al+Perfil)
   
