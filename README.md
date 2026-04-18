@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ginorobla">
+  <a href="https://www.linkedin.com/in/gino-robla-803a9337b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ginoroblabelleggia@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.workana.com">
-    <img src="https://img.shields.io/badge/Freelance-Disponible_en_Workana-22c55e?style=flat-square" alt="Workana" />
+  <a href="https://www.workana.com/freelancer/b27298a361ff0d2121190259fb5a46c5">
+    <img src="https://img.shields.io/badge/Workana-22c55e?style=flat-square&logo=workana&logoColor=white" alt="Workana" />
   </a>
 </p>
 
@@ -43,8 +43,6 @@ Actualmente soy Desarrollador Full Stack en **[Snoop Consulting](https://www.sno
       <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -79,36 +77,37 @@ Actualmente soy Desarrollador Full Stack en **[Snoop Consulting](https://www.sno
 
 <br/>
 
-### [Las Empanadas de Susi](https://github.com/GinoRobla/sistema-pedidos-whatsapp-ia) — Bot de WhatsApp + PWA
+### 🥟 [Las Empanadas de Susi](https://github.com/GinoRobla/sistema-pedidos-whatsapp-ia) — Bot de WhatsApp + PWA
 
 [![Stars](https://img.shields.io/github/stars/GinoRobla/sistema-pedidos-whatsapp-ia?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/sistema-pedidos-whatsapp-ia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-59.8K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginorobla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-59.8K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-robla-803a9337b/)
 
-Plataforma integral de automatización para negocios gastronómicos. Consta de un bot conversacional con IA que atiende a los clientes y toma pedidos por WhatsApp de forma natural. El comercio recibe estos pedidos en un panel de administración (PWA) con un dashboard en tiempo real, alertas sonoras, gestión integral del menú y estadísticas de ventas.
+Plataforma integral de automatización para negocios gastronómicos. Consta de un bot conversacional que atiende a los clientes y toma pedidos por WhatsApp de forma natural y autónoma. El comercio centraliza la recepción de estos pedidos en un panel de administración instalable (PWA) con un dashboard en tiempo real, alertas sonoras, gestión integral del menú y estadísticas de ventas por período.
 
-`Next.js 14` `TypeScript` `Supabase` `Realtime` `n8n` `Evolution API` `GPT-4o mini` `Web Push API` `Railway`
-
-<br/>
-
-### [BarberApp](https://github.com/GinoRobla/BarberApp) — Sistema de gestión para barberías
-
-Sistema web completo con tres paneles diferenciados: administrador, barbero y cliente. Reserva de turnos en 4 pasos, pago de seña con MercadoPago, recordatorios automáticos por WhatsApp vía Twilio, Google OAuth, estadísticas por barbero y gestión de horarios con bloqueos y excepciones.
-
-`React` `Node.js` `MongoDB` `MercadoPago` `Twilio` `JWT` `Google OAuth` `node-cron`
+`Next.js 14` `TypeScript` `Supabase` `Realtime` `n8n` `Evolution API` `GPT-4o` `Web Push API` `Railway`
 
 <br/>
 
-### [Sistema POS](https://github.com/GinoRobla/Sistema-POS) — Punto de venta de escritorio
+### 🛒 [Sistema POS](https://github.com/GinoRobla/Sistema-POS) — Punto de venta de escritorio
+
 [![Stars](https://img.shields.io/github/stars/GinoRobla/Sistema-POS?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/Sistema-POS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-31.5K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginorobla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-31.5K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-robla-803a9337b/)
 
-POS de escritorio para comercios locales con escaneo de códigos de barras (USB, Bluetooth o app móvil), gestión de inventario, historial de ventas y estadísticas avanzadas. Distribuible como instalador `.exe` con sistema de licencias por máquina (claves HMAC con vencimiento configurable). Funciona 100% offline con SQLite local — sin servidor, sin internet, sin mantenimiento continuo.
+Software de Punto de Venta (POS) 100% offline, pensado para agilizar la operativa diaria en comercios locales. Permite procesar ventas rápidamente mediante el escaneo de códigos de barras (compatible con lectores físicos o a través de una app móvil), controlar el inventario de manera automática y analizar métricas de negocio. Se distribuye como un instalador `.exe` autónomo y cuenta con un sistema propio de licencias por máquina con vencimiento configurable.
 
 `Electron.js` `React` `Vite` `Node.js` `Express` `SQLite` `PostgreSQL` `Sequelize`
+
+<br/>
+
+### ✂️ [BarberApp](https://github.com/GinoRobla/BarberApp) — Sistema de gestión integral para barberías
+
+Solución web completa diseñada para la administración de barberías y salones. Moderniza la experiencia del cliente permitiendo la reserva de turnos en línea y el cobro de señas mediante MercadoPago. Cuenta con tres paneles independientes (Administrador, Barbero y Cliente) que facilitan el control de la agenda, la gestión de ingresos y el envío de recordatorios automáticos por WhatsApp para reducir drásticamente el ausentismo.
+
+`React` `Node.js` `MongoDB` `MercadoPago` `Twilio` `JWT` `Google OAuth` `node-cron`
 
 ---
 
 <p align="center">
   <b>¿Buscás un desarrollador para tu próximo proyecto o automatización?</b><br>
-  <a href="mailto:ginoroblabelleggia@gmail.com">Envíame un correo</a> o contáctame vía <a href="https://linkedin.com/in/ginorobla">LinkedIn</a>.
+  <a href="mailto:ginoroblabelleggia@gmail.com">Envíame un correo</a> o contáctame vía <a href="https://www.linkedin.com/in/gino-robla-803a9337b/">LinkedIn</a>.
 </p>
