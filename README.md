@@ -80,7 +80,8 @@ Actualmente soy Desarrollador Full Stack en **[Snoop Consulting](https://www.sno
 ### 🥟 [Las Empanadas de Susi](https://github.com/GinoRobla/sistema-pedidos-whatsapp-ia) — Bot de WhatsApp + PWA
 
 [![Stars](https://img.shields.io/github/stars/GinoRobla/sistema-pedidos-whatsapp-ia?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/sistema-pedidos-whatsapp-ia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-59.8K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-robla-803a9337b/)
+[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn-59.8K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7442326065089339392/)
+[![LinkedIn Reactions](https://img.shields.io/badge/LinkedIn-541%20reacciones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7442326065089339392/)
 
 Plataforma integral de automatización para negocios gastronómicos. Consta de un bot conversacional que atiende a los clientes y toma pedidos por WhatsApp de forma natural y autónoma. El comercio centraliza la recepción de estos pedidos en un panel de administración instalable (PWA) con un dashboard en tiempo real, alertas sonoras, gestión integral del menú y estadísticas de ventas por período.
 
@@ -91,7 +92,8 @@ Plataforma integral de automatización para negocios gastronómicos. Consta de u
 ### 🛒 [Sistema POS](https://github.com/GinoRobla/Sistema-POS) — Punto de venta de escritorio
 
 [![Stars](https://img.shields.io/github/stars/GinoRobla/Sistema-POS?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/Sistema-POS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-31.5K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-robla-803a9337b/)
+[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn-31.5K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7416210201755783168/)
+[![LinkedIn Reactions](https://img.shields.io/badge/LinkedIn-462%20reacciones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7416210201755783168/)
 
 Software de Punto de Venta (POS) 100% offline, pensado para agilizar la operativa diaria en comercios locales. Permite procesar ventas rápidamente mediante el escaneo de códigos de barras (compatible con lectores físicos o a través de una app móvil), controlar el inventario de manera automática y analizar métricas de negocio. Se distribuye como un instalador `.exe` autónomo y cuenta con un sistema propio de licencias por máquina con vencimiento configurable.
 
@@ -100,6 +102,10 @@ Software de Punto de Venta (POS) 100% offline, pensado para agilizar la operativ
 <br/>
 
 ### ✂️ [BarberApp](https://github.com/GinoRobla/BarberApp) — Sistema de gestión integral para barberías
+
+[![Stars](https://img.shields.io/github/stars/GinoRobla/BarberApp?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/BarberApp)
+[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn-21.2K%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7414435063850864640/)
+[![LinkedIn Reactions](https://img.shields.io/badge/LinkedIn-138%20reacciones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7414435063850864640/)
 
 Solución web completa diseñada para la administración de barberías y salones. Moderniza la experiencia del cliente permitiendo la reserva de turnos en línea y el cobro de señas mediante MercadoPago. Cuenta con tres paneles independientes (Administrador, Barbero y Cliente) que facilitan el control de la agenda, la gestión de ingresos y el envío de recordatorios automáticos por WhatsApp para reducir drásticamente el ausentismo.
 
