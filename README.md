@@ -111,6 +111,18 @@ Solución web completa diseñada para la administración de barberías y salones
 
 `React` `Node.js` `MongoDB` `MercadoPago` `Twilio` `JWT` `Google OAuth` `node-cron`
 
+<br/>
+
+### 🎙️ [Agente de Voz IA](https://github.com/GinoRobla/agente-voz-automotriz) — Recepcionista telefónico autónomo
+
+[![Stars](https://img.shields.io/github/stars/GinoRobla/BarberApp?style=flat-square&color=f5a623&label=stars)](https://github.com/GinoRobla/agente-voz-ia)
+[![LinkedIn Impressions](https://img.shields.io/badge/LinkedIn-738%20impresiones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7449622955431182336/)
+[![LinkedIn Reactions](https://img.shields.io/badge/LinkedIn-13%20reacciones-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7449622955431182336/)
+
+Asistente virtual telefónico desarrollado para un taller automotriz. El agente atiende llamadas entrantes en tiempo real, conversa de forma natural para recolectar datos del cliente (nombre, vehículo, servicio) y agenda el turno directamente en Google Calendar sin intervención humana.
+
+`Vapi` `ElevenLabs` `Deepgram` `n8n` `GPT-4o mini` `Google Calendar API`
+
 ---
 
 <p align="center">
