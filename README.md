@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.workana.com/freelancer/b27298a361ff0d2121190259fb5a46c5">
-    <img src="https://img.shields.io/badge/Workana-22c55e?style=flat-square&logo=workana&logoColor=white" alt="Workana" />
+    <img src="https://img.shields.io/badge/Workana-5746B0?style=flat-square&logo=workana&logoColor=white" alt="Workana" />
   </a>
 </p>
 
