@@ -20,8 +20,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Actualmente soy Desarrollador Full Stack en **[Snoop Consulting](https://www.snoopconsulting.com)** y ofrezco mis servicios como freelancer a través de **Workana**. Me especializo en la arquitectura de aplicaciones web completas y en la automatización de procesos mediante IA. 
-
+Actualmente soy Desarrollador Full Stack en **[Snoop Consulting](https://www.snoopconsulting.com)** y ofrezco mis servicios como freelancer a través de **Workana**. Me dedico a construir productos digitales a medida desde cero y a optimizar negocios automatizando procesos con IA.
 ---
 
 ## 🛠 Stack Tecnológico
